@@ -19,16 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Skidavi
-email: your-email@example.com
+email: skip.davis.civ@us.navy.mil
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a Personal Website to commemorate what I like most in life.
+  This is my Personal Website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
